@@ -1,6 +1,6 @@
 # pycityschools
 
-The PyCitySchools repository contains custom python scripts using the Pandas (panel data) library and Jupyter Notebooks to analyze fictional district-wide standardized test results. The purpose of the repository is to aggregate the data to and showcase obvious trends in school performance which will help the school board and mayor make strategic decisions regarding future school budgets and priorities.
+The PyCitySchools repository contains custom python scripts using the Pandas (panel data) library and Jupyter Notebooks to analyze fictional district-wide standardized test results. The purpose of the repository is to aggregate the data and showcase obvious trends in school performance which will help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 ##The final PyCitySchools report includes the following information: 
 
